@@ -1,0 +1,29 @@
+{
+  "name": "winningjs-uncaught-error",
+  "description": "",
+  "version": "0.0.1",
+  "author": {
+    "name": "YuzuJS"
+  },
+  "contributors": [
+    {
+      "name": "Donavon West",
+      "email": "github@donavon.com",
+      "url": "http://donavon.com/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YuzuJS/winningjs-uncaught-error.git"
+  },
+  "bugs": {
+    "url": "http://github.com/YuzuJS/winningjs-uncaught-error/issues"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/index.js",
+  "dependencies": {
+    "pubit-as-promised": ">= 1.0.0"
+  }
+}
